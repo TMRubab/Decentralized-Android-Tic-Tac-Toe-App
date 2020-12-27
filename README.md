@@ -1,2 +1,2 @@
 # Decentralized-Tic-Tac-Toe-Game
-This is a decentralized online two player Tic-Tac-Toe android game.
+This is a decentralized online two player Tic-Tac-Toe game.
